@@ -1,0 +1,17 @@
+{
+  "contributions": [],
+  "people": [
+    {
+      "affiliation": "University of Washington",
+      "author": true,
+      "curator": true,
+      "github": "muratmaga",
+      "github_id": null,
+      "name": "Maga, A. Murat",
+      "orcid": "0000-0002-7921-9018",
+      "source": "member"
+    }
+  ],
+  "repo": "MorphoDepot/glaucomys-sabrinus-skull",
+  "schema": "morphodepot-contributors/1"
+}
