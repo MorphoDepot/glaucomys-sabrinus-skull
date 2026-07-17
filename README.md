@@ -13,3 +13,17 @@ Repository for segmentation of a specimen scan.  See [this JSON file](MorphoDepo
 
 ![Northern flying squirrel](screenshots/screenshot-1.png)
 _Northern flying squirrel_
+
+<!-- MORPHODEPOT-DOI:START -->
+## Citation & DOI
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21404410-blue)](https://doi.org/10.5281/zenodo.21404410)
+
+**Cite this release:**
+
+> Maga, A. Murat (2026). MorphoDepot/glaucomys-sabrinus-skull — MorphoDepot segmentation dataset (v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21404410
+
+To cite *all* versions (always resolves to the latest), use the concept DOI: <https://doi.org/10.5281/zenodo.21404409>
+
+*(This block is regenerated on every release — the version DOI above changes each time.)*
+<!-- MORPHODEPOT-DOI:END -->
